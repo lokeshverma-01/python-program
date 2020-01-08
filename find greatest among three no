@@ -1,0 +1,13 @@
+a=input("enter value of A")
+b=input("enter value of B")
+c=input("entre value of C")
+if a>b and a>c :
+    max=a
+else :
+    if b>c and b>a :
+        max=b
+    else :
+        max=c
+        
+
+print("max is =",max)
