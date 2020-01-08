@@ -1,0 +1,7 @@
+a=input("enter value of A =")
+b=input("enter value of B =")
+c=a
+a=b
+b=c
+print("value of A is =",a)
+print("value of B is =",b)
